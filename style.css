@@ -1,0 +1,14 @@
+.box{
+    height: 166px;
+    width: 288px;
+    background-color: blue;
+    text-align: center;
+   padding-top: 2em;
+color: white;
+   border: 2px solid rgb(239, 147, 219);
+   border-radius: 10px;
+}
+
+h2{
+    margin-left: 0.3em;
+}
